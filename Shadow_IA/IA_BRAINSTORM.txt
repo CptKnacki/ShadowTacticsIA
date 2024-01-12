@@ -1,0 +1,31 @@
+--- IA Fourmi-Lion HL2 ---
+
+Patrouille
+Se rassembler autour du joueur
+Se déplacer vers une cible
+Interagir avec des éléments
+Attaquer une cible ( si attaqué ou si la cible est marqué )
+
+
+
+
+--- IA Garde ShadowTactics ---
+
+ ( GARDES DE BASE )
+ 
+ BASE :
+ - Patrouille / Reste sur place
+ - Inspecter les éléments suspect
+ - Attaquer le joueur
+ - Donner l'alarme et appeler des renforts
+ 
+ 
+ OPTIONNEL :
+ - Investiguer une zone et ses cachettes
+ - Etre distrait par un objet ou une personne
+ - Réagis au bruit ( Si le bruit est autre qu'un cailloux,
+ va inspecter l'origine du bruit )
+ - Rentre en état de suspiscion
+ - Remarque la disparition d'un garde et patrouille légérement la zone
+ - Remarque et suit les traces de pas dans la neige
+ - Peut être alerté par un civil et patrouille la zone ( 1 fois )
